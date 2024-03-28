@@ -1,0 +1,3 @@
+
+coordinator.port=8080
+coordinator.threshold=120
